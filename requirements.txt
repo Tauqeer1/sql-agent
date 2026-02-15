@@ -1,0 +1,4 @@
+langchain_community==0.4.1
+langchain_google_genai==4.2.0
+langchain_ollama==1.0.1
+python-dotenv==1.2.1
