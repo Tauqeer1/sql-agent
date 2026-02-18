@@ -25,7 +25,7 @@ It supports switching between cloud-based models (Google Gemini) and local model
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/sql-agent.git
+    git clone https://github.com/Tauqeer1/sql-agent.git
     cd sql-agent
     ```
 
